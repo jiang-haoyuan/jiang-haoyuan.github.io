@@ -32,7 +32,7 @@ I am particularly interested in building autonomous agents capable of reasoning,
 
 <!-- In my experiences, I have been investigating how to enable autonomous agents to learn, make decisions in complex environments, and apply them in reality. This includes developing new reinforcement learning algorithms that allow agents to cooperate, easily adapt to new environments and meet industry requirements. -->
 
-If you are interested in my research or experiences, please feel free to contact me!
+Feel free to contact me if you are interested in my research and want to discuss relevant research topic or potential collaborations!
 
 # News
 - *2026.06*: &nbsp;🎓🚀 I started a new journey as a Ph.D. student at **TUM**!
