@@ -13,7 +13,7 @@ Beyond research and work, I enjoy traveling and exploring different places, cult
 
 The map below records places I have visited. It is a small personal archive of my journeys, memories, and future inspiration for where to go next.
 
-{% assign travel_photos = "Z9L_3491.jpeg,Z9L_3982.jpeg,IMG_4192.jpeg,IMG_4289.jpeg,IMG_4459.jpeg,Z9L_4638.jpeg,IMG_4467.jpeg,IMG_4518.jpeg,IMG_4713.jpeg,IMG_5090.jpeg,IMG_5136.jpeg,IMG_5282.jpeg,IMG_5349.jpeg,IMG_5888.jpeg,Z9L_4967.jpeg" | split: "," %}
+{% assign travel_photos = "Z9L_3491.jpeg,Z9L_3982.jpeg,IMG_4192.jpeg,IMG_4289.jpeg,IMG_4459.jpeg,Z9L_4638.jpeg,IMG_4467.jpeg,IMG_4518.jpeg,IMG_4713.jpeg,IMG_5090.jpeg,IMG_5136.jpeg,IMG_5282.jpeg,IMG_5349.jpeg,IMG_5888.jpeg,Z9L_4967.jpeg,Z9L_5078.jpeg,Z9L_5076.jpeg" | split: "," %}
 
 <style>
   .travel-gallery {
